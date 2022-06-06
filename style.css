@@ -1,0 +1,36 @@
+#box{
+    background-color: orange;
+    margin-top: -20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+#title{
+    color: white;
+}
+ 
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+img{
+    height: 200px;
+    border-radius: 100px;
+
+}
+
+#speeddiv{
+    float: left;
+}
+
+#voldiv{
+    float: right;
+}
+
+canvas{
+    border: 5px dashed rgb(16, 240, 16);
+    border-radius: 100px;
+    box-shadow: 10px 6px 15px blue;
+}
